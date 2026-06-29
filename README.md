@@ -21,7 +21,7 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="![Trophies](https://github-profile-trophy.vercel.app/?username=BlazinSan&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
+  <img src="![Trophies](https://trophygithubreadmelang.cybee.dpdns.org/?username=BlazinSan&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
 </p>
 
   ## 💰 You can help me by Donating
